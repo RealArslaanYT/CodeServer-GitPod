@@ -39,3 +39,41 @@
 [09:07:20] [192.168.171.139][e6189d7f][ManagementConnection] New connection established.
 [09:07:23] [192.168.95.201][1fbac9ae][ExtensionHostConnection] New connection established.
 [09:07:23] [192.168.95.201][1fbac9ae][ExtensionHostConnection] <1106> Launched Extension Host Process.
+[2025-02-18T09:12:15.241Z] info  code-server 4.96.4 b7ef8f9bd70cb5b342fa8ec8a0086bad676d8124
+[2025-02-18T09:12:15.243Z] info  Using user-data-dir /config/data
+[2025-02-18T09:12:15.257Z] info  Using config file /config/.config/code-server/config.yaml
+[2025-02-18T09:12:15.257Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2025-02-18T09:12:15.257Z] info    - Authentication is enabled
+[2025-02-18T09:12:15.257Z] info      - Using password from $PASSWORD
+[2025-02-18T09:12:15.257Z] info    - Not serving HTTPS
+[2025-02-18T09:12:15.257Z] info  Session server listening on /config/data/code-server-ipc.sock
+[09:12:22] 
+
+
+
+
+[09:12:22] Extension host agent started.
+[09:12:25] [192.168.69.10][f571c668][ManagementConnection] New connection established.
+[09:12:28] [192.168.95.201][2c7bda35][ExtensionHostConnection] New connection established.
+[09:12:28] [192.168.95.201][2c7bda35][ExtensionHostConnection] <630> Launched Extension Host Process.
+[09:12:47] [192.168.69.10][f571c668][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:12:48] [192.168.95.201][2c7bda35][ExtensionHostConnection] <630> Extension Host Process exited with code: 0, signal: null.
+[2025-02-18T09:15:11.347Z] info  code-server 4.96.4 b7ef8f9bd70cb5b342fa8ec8a0086bad676d8124
+[2025-02-18T09:15:11.352Z] info  Using user-data-dir /config/data
+[2025-02-18T09:15:11.365Z] info  Using config file /config/.config/code-server/config.yaml
+[2025-02-18T09:15:11.365Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2025-02-18T09:15:11.365Z] info    - Authentication is enabled
+[2025-02-18T09:15:11.366Z] info      - Using password from $PASSWORD
+[2025-02-18T09:15:11.366Z] info    - Not serving HTTPS
+[2025-02-18T09:15:11.366Z] info  Session server listening on /config/data/code-server-ipc.sock
+[09:15:20] 
+
+
+
+
+[09:15:20] Extension host agent started.
+[09:15:22] [192.168.69.10][0b3d3f36][ManagementConnection] New connection established.
+[09:15:25] [192.168.171.139][0e399d6a][ExtensionHostConnection] New connection established.
+[09:15:25] [192.168.171.139][0e399d6a][ExtensionHostConnection] <622> Launched Extension Host Process.
+[09:15:29] [192.168.171.139][0e399d6a][ExtensionHostConnection] <622> Extension Host Process exited with code: 0, signal: null.
+[09:15:30] [192.168.69.10][0b3d3f36][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
