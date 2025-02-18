@@ -11,6 +11,6 @@ docker run -d \
   -e SUDO_PASSWORD=c0dingclub-2025-root \
   -e DEFAULT_WORKSPACE=/workspace/code-server/workspace \
   -p 8443:8443 \
-  -v /workspace/code-server/config:/config \
+  -v /workspace/code-server/config \
   --restart unless-stopped \
   lscr.io/linuxserver/code-server:latest
