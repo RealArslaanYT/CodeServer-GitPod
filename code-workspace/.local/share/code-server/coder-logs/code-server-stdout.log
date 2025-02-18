@@ -1,0 +1,19 @@
+[2025-02-18T09:04:15.171Z] info  code-server 4.96.4 b7ef8f9bd70cb5b342fa8ec8a0086bad676d8124
+[2025-02-18T09:04:15.172Z] info  Using user-data-dir /config/data
+[2025-02-18T09:04:15.186Z] info  Using config file /config/.config/code-server/config.yaml
+[2025-02-18T09:04:15.186Z] info  HTTP server listening on http://0.0.0.0:8443/
+[2025-02-18T09:04:15.186Z] info    - Authentication is enabled
+[2025-02-18T09:04:15.186Z] info      - Using password from $PASSWORD
+[2025-02-18T09:04:15.186Z] info    - Not serving HTTPS
+[2025-02-18T09:04:15.186Z] info  Session server listening on /config/data/code-server-ipc.sock
+[09:04:17] 
+
+
+
+
+[09:04:17] Extension host agent started.
+[09:04:17] Started initializing default profile extensions in extensions installation folder. file:///config/extensions
+[09:04:17] Completed initializing default profile extensions in extensions installation folder. file:///config/extensions
+[09:05:08] [192.168.95.201][de65ad5d][ManagementConnection] New connection established.
+[09:05:21] [192.168.171.139][825892c1][ExtensionHostConnection] New connection established.
+[09:05:21] [192.168.171.139][825892c1][ExtensionHostConnection] <1072> Launched Extension Host Process.
