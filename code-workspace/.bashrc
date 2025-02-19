@@ -100,5 +100,9 @@ fi
 
 # Created by `pipx` on 2025-02-18 20:03:14
 export PATH="$PATH:/config/.local/bin"
-alias pipx='pipx --venv-root=$PWD/.venvs'
+alias activate_project_env='export PIPX_HOME="$PWD/.venvs" && export PIPX_BIN_DIR="$PWD/.venvs/bin" && export PATH="$PIPX_BIN_DIR:$PATH"'
+env_activate() {
+    source "$PWD/.venvs/venvs/$1/bin/activate"
+}
+alias pipx_install = "xargs -n 1 pipx inject"
 echo "Welcome to the Coding Club 2025 code-server environment!"
