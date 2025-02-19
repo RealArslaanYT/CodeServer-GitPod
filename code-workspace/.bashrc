@@ -100,3 +100,5 @@ fi
 
 # Created by `pipx` on 2025-02-18 20:03:14
 export PATH="$PATH:/config/.local/bin"
+alias pipx='pipx --venv-root=$PWD/.venvs'
+echo "Welcome to the Coding Club 2025 code-server environment!"
