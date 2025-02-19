@@ -97,3 +97,6 @@ fi
 #if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 #    . /etc/bash_completion
 #fi
+
+# Created by `pipx` on 2025-02-18 20:03:14
+export PATH="$PATH:/config/.local/bin"
