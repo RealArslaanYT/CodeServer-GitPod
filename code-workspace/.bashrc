@@ -104,5 +104,5 @@ alias activate_project_env='export PIPX_HOME="$PWD/.venvs" && export PIPX_BIN_DI
 env_activate() {
     source "$PWD/.venvs/venvs/$1/bin/activate"
 }
-alias pipx_install = "xargs -n 1 pipx inject"
+alias pipx_install="xargs -n 1 pipx inject"
 echo "Welcome to the Coding Club 2025 code-server environment!"
