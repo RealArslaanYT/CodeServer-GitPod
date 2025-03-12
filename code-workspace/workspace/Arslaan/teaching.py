@@ -1,9 +1,6 @@
-import random
+# How to get user input
+myVariable = input("type something here: ")
+print(myVariable) # Replace "myVariable" with your variable name.and
 
-number = random.randint(0, 100)
-
-while True:
-    userNumber = int(input("Guess a number: "))
-    if userNumber == number:
-        print("You guessed the right number!")
-        break
+# Coding club finished for today, 12/3/2025
+# Next time teach basics or maybe number guessing game
